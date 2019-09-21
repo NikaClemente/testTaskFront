@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "МТС", "logo": "../img/mts_logo.png"},    
+    {"id": 2, "name": "Билайн", "logo": "../img/biline_logo.png"},
+    {"id": 3, "name": "Мегафон", "logo": "../img/MegaFon_logo.png"},    
+    {"id": 4, "name": "Теле2", "logo": "../img/tele2_logo.png"}
+]
+
